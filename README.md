@@ -23,11 +23,11 @@ Retail businesses generate large volumes of transactional data, but often strugg
 
 This project aims to answer key business questions such as :
 
-Which customer groups generate the most revenue?
-How do subscriptions impact spending behavior?
-What products are most popular and highly rated?
-Are discounts driving higher sales?
-Which customer segments should businesses target for growth?
+- Which customer groups generate the most revenue?
+- How do subscriptions impact spending behavior?
+- What products are most popular and highly rated?
+- Are discounts driving higher sales?
+- Which customer segments should businesses target for growth?
 
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
